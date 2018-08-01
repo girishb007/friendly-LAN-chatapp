@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1072321831985",
+    "firebase_url": "https://fir-udacity-f2632.firebaseio.com",
+    "project_id": "fir-udacity-f2632",
+    "storage_bucket": "fir-udacity-f2632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072321831985:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072321831985-n9j16q66srkdbv1ks9mgtoi18jlgu1rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CpEOOOUlcw2P9oD6-QDfiqSmbVPe5ZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
